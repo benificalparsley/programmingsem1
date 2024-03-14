@@ -1,0 +1,14 @@
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\bin\Debug\net6.0\Question01.exe
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\bin\Debug\net6.0\Question01.deps.json
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\bin\Debug\net6.0\Question01.runtimeconfig.json
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\bin\Debug\net6.0\Question01.dll
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\bin\Debug\net6.0\Question01.pdb
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\Question01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\Question01.AssemblyInfoInputs.cache
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\Question01.AssemblyInfo.cs
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\Question01.csproj.CoreCompileInputs.cache
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\Question01.dll
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\refint\Question01.dll
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\Question01.pdb
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\Question01.genruntimeconfig.cache
+C:\Users\wmotm\OneDrive\Desktop\Coding\Assignment2\obj\Debug\net6.0\ref\Question01.dll
